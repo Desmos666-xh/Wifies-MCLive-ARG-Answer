@@ -1,2 +1,13 @@
 # Wifies-MCLive-ARG-Answer
 The answer of the ARG on MCLive March 2026 by Wifies.
+
+
+Answer:
+
+```plain
+EVOKERFROSTEDICESKELETONSKULL
+EGJZCPR
+00100010011101101011
+-28989576000
+BIMKLERT
+```
